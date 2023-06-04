@@ -1,7 +1,7 @@
 <h1>Code Review</h1>
   <h2>Overview</h2>
   <h3>Screenshot</h3>
-  <img src="./screenshot.png" alt="Screenshot">
+  <img src="Screenshot.png" alt="Screenshot">
 
   <h2>My process</h2>
 
